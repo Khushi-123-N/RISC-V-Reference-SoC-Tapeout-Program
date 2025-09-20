@@ -1,0 +1,8 @@
+Week 5/
+├── README.md
+├── rtl/
+│   └── example_module.v
+├── testbench/
+│   └── example_module_tb.v
+└── scripts/
+    └── run_simulation.sh
