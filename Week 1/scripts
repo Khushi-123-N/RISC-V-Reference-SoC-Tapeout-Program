@@ -1,0 +1,4 @@
+#!/bin/bash
+iverilog -o sim.out rtl/simple_module.v testbench/simple_module_tb.v
+vvp sim.out
+gtkwave simple_module.vcd

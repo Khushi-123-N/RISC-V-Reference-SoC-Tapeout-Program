@@ -1,0 +1,12 @@
+Week1/
+│
+├── rtl/
+│   └── simple_module.v
+│
+├── testbench/
+│   └── simple_module_tb.v
+│
+├── scripts/   (optional)
+│   └── run_sim.sh
+│
+└── README.md
