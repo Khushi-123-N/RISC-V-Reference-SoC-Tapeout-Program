@@ -28,7 +28,7 @@ Week0/
 ## 🖼️ Assets Reference
 
 - **Flow Diagram:**  
-![VSD Flow](assets/diagrams/vsd_flow.png)  
+![VSD Flow]([assets/diagrams/vsd_flow.png](https://www.vlsisystemdesign.com/wp-content/uploads/2024/02/NasscomVSDIAT_Workshop-Flow_343x500.png))  
 
 - **Scripts:** `assets/scripts/setup_tools.sh`  
 - **Config Files:** `assets/config/docker_config.json`  
